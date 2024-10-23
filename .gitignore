@@ -15,7 +15,7 @@ saves/
 
 *.rpyc
 *.rpymc
-
+*.rpe.py
 
 # The log file and other misc things #
 ######################################
