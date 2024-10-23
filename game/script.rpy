@@ -24,7 +24,7 @@ label start:
 
     # These display lines of dialogue.
 
-    e "Testing github commits v1."
+    e "Testing github commits v2, testing vsc preview"
 
     e "Once you add a story, pictures, and music, you can release it to the world!"
 
